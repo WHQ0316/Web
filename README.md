@@ -1,2 +1,2 @@
 # Web
-seizure_decetion
+seizure_detection
